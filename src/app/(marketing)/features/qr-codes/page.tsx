@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { AnimationContainer, MaxWidthWrapper } from "@/components";
 import { Button } from "@/components/ui/button";
 import { LampContainer } from "@/components/ui/lamp";

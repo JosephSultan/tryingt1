@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { Icons, SignInForm } from "@/components";
 import Link from "next/link";
 
